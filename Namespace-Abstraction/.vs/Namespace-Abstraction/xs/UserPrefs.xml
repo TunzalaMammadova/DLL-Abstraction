@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{212DA4E4-99F4-4211-9638-95A0488735DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Models/Product.cs">
+    <Files>
+      <File FileName="Namespace-Abstraction/Program.cs" Line="24" Column="1" />
+      <File FileName="Domain/Models/Product.cs" Line="18" Column="1" />
+      <File FileName="Service/Services/ProductService.cs" />
+      <File FileName="Namespace-Abstraction/Controllers/ProductController.cs" />
+      <File FileName="Domain/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Namespace-Abstraction/Models/Entities/BaseEntity.cs" />
+      <File FileName="Namespace-Abstraction/Models/Person.cs" />
+      <File FileName="Namespace-Abstraction/Animal.cs" />
+      <File FileName="Namespace-Abstraction/Bird.cs" Line="16" Column="1" />
+      <File FileName="Namespace-Abstraction/Eagle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Namespace-Abstraction" expanded="True">
+            <Node name="Domain">
+              <Node name="Models" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Namespace-Abstraction">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Service">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Namespace-Abstraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
